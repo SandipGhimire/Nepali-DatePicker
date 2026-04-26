@@ -1,0 +1,9 @@
+[submodule "Docs"]
+	path = Docs
+	url = https://github.com/SandipGhimire/Nepali-DatePicker-Docs.git
+[submodule "Vue3"]
+	path = Vue3
+	url = https://github.com/SandipGhimire/Nepali-DatePicker-Vue2.git
+[submodule "Vue2"]
+	path = Vue2
+	url = https://github.com/SandipGhimire/Nepali-DatePicker-Vue3.git
